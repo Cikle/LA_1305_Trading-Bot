@@ -4,11 +4,13 @@ Cyril Lutziger, Julius Burlet
 
 | Datum     | Version | Zusammenfassung                                                                 |
 |-----------|---------|---------------------------------------------------------------------------------|
-| 01.05.2024| 0.0.1   | Beginn des Projekts, Recherche zu NoSQL-Datenbanken und der ccxt-Bibliothek für den Trading-Bot. |
-| 08.05.2024| 0.0.2   | Grundlegende Funktionen des Trading-Bots implementiert, API-Anbindung getestet.  |
-| 15.05.2024| 0.0.3   | Integration der EMA-Indikatoren, erste Handelsstrategien getestet.               |
-| 22.05.2024| 0.0.4   | Optimierung der Handelsstrategien, Probleme bei der Feinabstimmung identifiziert.|
-| 29.05.2024| 1.0.0   | Projekt abgeschlossen, alle Backend-Funktionalitäten erfolgreich implementiert.  |
+| 03.05.2024| 0.0.1   | Beginn des Projekts, Recherche zu NoSQL-Datenbanken und der ccxt-Bibliothek für den Trading-Bot. |
+| 10.05.2024| 0.0.2   | Grundlegende Funktionen des Trading-Bots implementiert, API-Anbindung getestet.  |
+| 17.05.2024| 0.0.3   | Integration der EMA-Indikatoren, erste Handelsstrategien getestet.               |
+| 24.05.2024| 0.0.4   | Optimierung der Handelsstrategien, Probleme bei der Feinabstimmung identifiziert.|
+| 31.05.2024| 1.0.0   | Projekt abgeschlossen, alle Backend-Funktionalitäten erfolgreich implementiert.  |
+| 07.06.2024| 1.1.0   | Implementierung zusätzlicher API-Tests und Verbesserung der Dokumentation.       |
+| 14.06.2024| 1.2.0   | Endgültige Überprüfung und Bereitstellung des Projekts.                          |
 
 ## 1 Informieren
 
@@ -52,6 +54,8 @@ In diesem Projekt haben wir einen Trading-Bot entwickelt, der die EMA (Exponenti
 | 3.B  | 22.05.24 | Julius         | API-Integration verfeinern                          | 120'          |
 | 4.A  | 29.05.24 | Julius/Cyril   | Endgültige Tests und Fehlerbehebung                 | 180'          |
 | 5.A  | 29.05.24 | Cyril          | Bereitstellung in Docker-Umgebung                   | 60'           |
+| 6.A  | 07.06.24 | Julius         | Zusätzliche API-Tests implementieren                | 120'          |
+| 6.B  | 14.06.24 | Julius/Cyril   | Endgültige Überprüfung und Dokumentation            | 180'          |
 
 ## 3 Entscheiden
 
@@ -69,6 +73,8 @@ Wir haben uns für diese User Stories und Aufgaben entschieden, weil sie die gru
 | 3.B  | 22.05.24 | Julius       | 120'          | 130'              |
 | 4.A  | 29.05.24 | Julius/Cyril | 180'          | 190'              |
 | 5.A  | 29.05.24 | Cyril        | 60'           | 50'               |
+| 6.A  | 07.06.24 | Julius       | 120'          | 130'              |
+| 6.B  | 14.06.24 | Julius/Cyril | 180'          | 190'              |
 
 ## 5 Kontrollieren
 
@@ -81,6 +87,8 @@ Wir haben uns für diese User Stories und Aufgaben entschieden, weil sie die gru
 | 3.1  | 22.05.24 | OK       | Julius  |
 | 4.1  | 29.05.24 | OK       | Cyril   |
 | 5.1  | 29.05.24 | OK       | Julius  |
+| 6.1  | 07.06.24 | OK       | Julius  |
+| 6.2  | 14.06.24 | OK       | Julius/Cyril |
 
 Alle Funktionen wurden erfolgreich getestet und implementiert.
 
