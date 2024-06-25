@@ -4,7 +4,7 @@ Cyril Lutziger, Julius Burlet
 
 | Datum     | Version | Zusammenfassung                                                                 |
 |-----------|---------|---------------------------------------------------------------------------------|
-| 03.05.2024| 0.0.1   | Beginn des Projekts, Recherche zu NoSQL-Datenbanken und der ccxt-Bibliothek für den Trading-Bot. |
+| 03.05.2024| 0.0.1   | Beginn des Projekts, Recherche zu der ccxt-Bibliothek für den Trading-Bot. |
 | 10.05.2024| 0.0.2   | Grundlegende Funktionen des Trading-Bots implementiert, API-Anbindung getestet.  |
 | 17.05.2024| 0.0.3   | Integration der EMA-Indikatoren, erste Handelsstrategien getestet.               |
 | 24.05.2024| 0.0.4   | Optimierung der Handelsstrategien, Probleme bei der Feinabstimmung identifiziert.|
@@ -51,7 +51,7 @@ Test Project:
 
 | AP-№ | Frist    | Zuständig      | Beschreibung                                        | geplante Zeit |
 |------|----------|----------------|-----------------------------------------------------|---------------|
-| 1.A  | 08.05.24 | Cyril          | Recherche zu NoSQL-Datenbanken und ccxt-Bibliothek  | 60'           |
+| 1.A  | 08.05.24 | Cyril          | Recherche zu ccxt-Bibliotheken                      | 60'           |
 | 1.B  | 08.05.24 | Julius/Cyril   | Grundlegende API-Anbindung implementieren           | 120'          |
 | 2.A  | 15.05.24 | Julius/Cyril   | Implementierung der EMA-Indikatoren                 | 180'          |
 | 2.B  | 15.05.24 | Julius         | Erste Handelsstrategien entwickeln und testen       | 120'          |
