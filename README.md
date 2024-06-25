@@ -111,7 +111,3 @@ Alle Funktionen wurden erfolgreich getestet und implementiert.
 ## Schlussbemerkungen
 
 Obwohl das Projekt insgesamt erfolgreich war, wurden wir durch die Komplexität der Handelsstrategien und die Integration der Börsen-APIs herausgefordert. Diese Erfahrungen werden uns helfen, zukünftige Projekte besser zu planen und umzusetzen.
-
-### Demonstration
-
-Wir haben einen Testcode erstellt, um sicherzustellen, dass die API-Anfragen korrekt gesendet werden und ein Trade erfolgreich eingegangen und wieder geschlossen wird.
