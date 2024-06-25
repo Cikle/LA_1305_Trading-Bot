@@ -39,8 +39,10 @@ In diesem Projekt haben wir einen Trading-Bot entwickelt, der die EMA (Exponenti
 | 5.1  | GUI zur Überwachung eingerichtet | --    | Echtzeit-Anzeige der Handelsaktivitäten                 |
 
 ### 1.4 Diagramme
-
-![Trading Bot Diagramm](https://example.com/trading-bot-diagram)
+Main Project:
+![gajnnsdsga](https://github.com/Cikle/LA_1305_Trading-Bot/assets/110893288/704b81ae-d2c8-4418-9743-dc317452d695)
+Test Project:
+![Test Trading](https://github.com/Cikle/LA_1305_Trading-Bot/assets/110893288/12981236-633c-4e02-aea6-8d6c2585636c)
 
 ## 2 Planen
 
