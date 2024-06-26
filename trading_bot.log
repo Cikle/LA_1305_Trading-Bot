@@ -1,0 +1,71 @@
+2024-06-07 09:37:42,196 - INFO - Current Price: 71203.4
+2024-06-07 09:38:42,200 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=BTCUSDT
+2024-06-07 09:38:42,201 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 09:39:16,478 - INFO - Current Price: 71176.9
+2024-06-07 09:40:16,484 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=BTCUSDT
+2024-06-07 09:40:16,484 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 09:40:59,751 - INFO - Current Price: 71174.9
+2024-06-07 10:31:50,009 - INFO - Leverage set to 1x for DOGE/USDT.
+2024-06-07 10:31:50,835 - INFO - Current Price: 0.16123
+2024-06-07 10:31:51,208 - INFO - Trade Amount: 34.11275817155616 DOGE
+2024-06-07 10:32:53,394 - INFO - Current Price: 0.16126
+2024-06-07 10:32:53,718 - INFO - Trade Amount: 34.10852713178294 DOGE
+2024-06-07 10:33:55,807 - INFO - Current Price: 0.16113
+2024-06-07 10:33:56,156 - INFO - Trade Amount: 34.1339291255508 DOGE
+2024-06-07 10:34:56,278 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:34:56,278 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:35:58,539 - INFO - Current Price: 0.16104
+2024-06-07 10:35:58,886 - INFO - Trade Amount: 34.15300546448088 DOGE
+2024-06-07 10:37:02,822 - INFO - Current Price: 0.16101
+2024-06-07 10:37:04,361 - INFO - Trade Amount: 34.161490683229815 DOGE
+2024-06-07 10:38:09,913 - INFO - Current Price: 0.16104
+2024-06-07 10:38:12,269 - INFO - Trade Amount: 34.15512637396758 DOGE
+2024-06-07 10:39:12,270 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:39:12,270 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:40:14,314 - INFO - Current Price: 0.16122
+2024-06-07 10:40:14,657 - INFO - Trade Amount: 34.11487408510111 DOGE
+2024-06-07 10:41:14,672 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:41:14,672 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:42:18,381 - INFO - Current Price: 0.1611
+2024-06-07 10:42:19,473 - INFO - Trade Amount: 34.14240486684462 DOGE
+2024-06-07 10:42:57,305 - INFO - Leverage set to 1x for DOGE/USDT.
+2024-06-07 10:42:59,349 - INFO - Current Price: 0.16109
+2024-06-07 10:42:59,719 - INFO - Trade Amount: 34.14240486684462 DOGE
+2024-06-07 10:44:09,729 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:44:09,730 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:45:16,138 - INFO - Current Price: 0.1612
+2024-06-07 10:45:16,592 - INFO - Trade Amount: 34.11910669975186 DOGE
+2024-06-07 10:46:17,402 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:46:17,403 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:47:25,031 - INFO - Current Price: 0.16128
+2024-06-07 10:47:25,673 - INFO - Trade Amount: 34.10218253968254 DOGE
+2024-06-07 10:48:29,539 - INFO - Current Price: 0.16115
+2024-06-07 10:48:30,239 - INFO - Trade Amount: 34.129692832764505 DOGE
+2024-06-07 10:49:56,721 - INFO - Current Price: 0.161
+2024-06-07 10:49:57,260 - INFO - Trade Amount: 34.16361264674825 DOGE
+2024-06-07 10:50:57,501 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:50:57,502 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:52:03,682 - INFO - Current Price: 0.161
+2024-06-07 10:52:04,591 - INFO - Trade Amount: 34.159368983292964 DOGE
+2024-06-07 10:53:04,684 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:53:04,684 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:54:11,147 - INFO - Current Price: 0.16099
+2024-06-07 10:54:12,973 - INFO - Trade Amount: 34.16361264674825 DOGE
+2024-06-07 10:55:13,231 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:55:13,231 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:56:16,570 - INFO - Current Price: 0.16103
+2024-06-07 10:56:17,088 - INFO - Trade Amount: 34.159368983292964 DOGE
+2024-06-07 10:57:21,179 - INFO - Current Price: 0.16102
+2024-06-07 10:57:21,970 - INFO - Trade Amount: 34.157247546888584 DOGE
+2024-06-07 10:58:22,340 - ERROR - Error fetching OHLCV data: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1m&limit=500&symbol=DOGEUSDT
+2024-06-07 10:58:22,341 - WARNING - No data fetched, skipping this iteration.
+2024-06-07 10:59:37,037 - INFO - Current Price: 0.16091
+2024-06-07 10:59:37,654 - INFO - Trade Amount: 34.17847377578921 DOGE
+2024-06-07 11:00:40,340 - INFO - Current Price: 0.16094
+2024-06-07 11:00:40,684 - INFO - Trade Amount: 34.17422641978377 DOGE
+2024-06-07 11:01:42,932 - INFO - Current Price: 0.16094
+2024-06-07 11:01:43,294 - INFO - Trade Amount: 34.17422641978377 DOGE
+2024-06-07 11:02:45,522 - INFO - Current Price: 0.16096
+2024-06-07 11:02:45,849 - INFO - Trade Amount: 34.1699801192843 DOGE
+2024-06-07 11:03:47,948 - INFO - Current Price: 0.16082
+2024-06-07 11:03:48,292 - INFO - Trade Amount: 34.19972640218879 DOGE
