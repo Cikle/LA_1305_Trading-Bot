@@ -112,4 +112,4 @@ Alle Funktionen wurden erfolgreich getestet und implementiert.
 
 Obwohl das Projekt insgesamt erfolgreich war, wurden wir durch die Komplexität der Handelsstrategien und die Integration der Börsen-APIs herausgefordert. Diese Erfahrungen werden uns helfen, zukünftige Projekte besser zu planen und umzusetzen.
 
-[mahara]((https://portfolio.bbbaden.ch/view/view.php?t=d7a63f3c4b5a138c8394)
+[mahara](https://portfolio.bbbaden.ch/view/view.php?t=d7a63f3c4b5a138c8394)
